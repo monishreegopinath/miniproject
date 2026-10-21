@@ -1,14 +1,14 @@
 /* College Admission Management System | Blue-and-white responsive design */
 :root {
-  --navy: #102b50;
-  --blue: #2463eb;
-  --blue-dark: #174bc2;
-  --ink: #172b49;
+  --navy: #234E38;
+  --blue: #234E438;
+  --blue-dark: #183B2A;
+  --ink: #26382D;
   --muted: #64748b;
-  --pale: #f3f7fd;
-  --line: #e2eaf5;
+  --pale: #FFFFF0;
+  --line: #DCE5D9;
   --white: #ffffff;
-  --teal: #dff7f3;
+  --teal: #EAF0E8;
   --radius: 20px;
 }
 * { box-sizing: border-box; }
